@@ -2,68 +2,69 @@
 	{
 		"op" : "replace",
 		"path" : "/description",
-		"value" : "Spirit Augmented Intelligent Lattice. Or, S.A.I.L. for short. She has the same role as a ship AI."
+		"value" : "魂灵-增强-智能-框架. 她简称为塞奥(S.A.I.L), 与舰载AI有着异曲同工的用途. "
 	},
 	{
 		"op" : "replace",
 		"path" : "/shortdescription",
-		"value" : "S.A.I.L."
+		"value" : "塞奥vvvvvv"
 	},
 	{
 		"op" : "replace",
 		"path" : "/apexDescription",
-		"value" : "A ghost being a ship S.A.I.L?... Huh..."
+		"value" : "一个幽灵充当的舰载AI? 它能胜任吗?"
 	},
 	{
 		"op" : "replace",
 		"path" : "/avianDescription",
-		"value" : "A ghost being a ship S.A.I.L?... Huh..."
+		"value" : "等等, 一个幽灵充当的舰载AI?"
 	},
 	{
 		"op" : "replace",
 		"path" : "/floranDescription",
-		"value" : "A ghost being a ship S.A.I.L?... Huh..."
+		"value" : "一个幽灵充充当的舰载AI? 奇怪."
 	},
 	{
 		"op" : "replace",
 		"path" : "/glitchDescription",
-		"value" : "A ghost being a ship S.A.I.L?... Huh..."
+		"value" : "困惑. 一个幽灵作为舰载AI?"
 	},
 	{
 		"op" : "replace",
 		"path" : "/humanDescription",
-		"value" : "A ghost being a ship S.A.I.L?... Huh..."
+		"value" : "用一个幽灵当舰载AI... 好吧. "
 	},
 	{
 		"op" : "replace",
 		"path" : "/hylotlDescription",
-		"value" : "A ghost being a ship S.A.I.L?... Huh..."
+		"value" : "用幽灵作为舰载AI这种行为... 仍需评估."
 	},
 	{
 		"op" : "replace",
 		"path" : "/novakidDescription",
-		"value" : "A ghost being a ship S.A.I.L?... Huh..."
+		"value" : "幽灵当AI! 真够狂野."
 	},
 	{
 		"op": "replace",
 		"path": "/plasmoidDescription",
-		"value": "She-is-the-shipkeeper-of-this-boat, how-reliable!"
+		"value": "她-是-这-艘-船-的-管-家, 真-可-靠. "
 	},
 	{
 		"op" : "replace",
 		"path" : "/dialog",
 		"value" : {
 			"wakeUp" : [
-			  [ "Well. Welcome! Brave Adventurer!", "/ai/portraits/plasmoidportrait.png:unique.0" ],
-			  [ "My name is S.A.I.L. A symbiont spirit that lives among the ship. Well, Just like any other ships, I got the role and responsibility to do maintance for it. Surely, I can not live without it, so just see me as an ship AI.", "/ai/portraits/plasmoidportrait.png:talk.0" ],
-			  [ "Seems like my last captain got... Wrecked. So you gotta be my new captain now! If any issues comes into mind, feel free to ask.", "/ai/portraits/plasmoidportrait.png:talk.1" ],
-			  [ "Your home, earth? Never thought a Plasmoid would settle down.\nThough I suspect the destruction of Earth is done by Astral Elfs, it could also be some other horror which desdroyed it, RIP.", "/ai/portraits/plasmoidportrait.png:talk.0" ],
-			  [ "And yet another bad news. The integrity of this ship is highly damaged, and the navigation system can no longer sustain operation. In other words, we're lost!\nI have zero clue which planet we are orbiting currently.", "/ai/portraits/plasmoidportrait.png:refuse.1" ]
+				[ "哦, 咳咳! 欢迎, 勇敢的冒险者..！", "/ai/portraits/plasmoidportrait.png:talk.1" ],
+				[ "自我介绍? 哦对对. ", "/ai/portraits/plasmoidportrait.png:refuse.2"],
+				[ "我的名字是塞奥, 一个寄宿在这艘船上的魂灵. 当然, 就像其他船一样, 我负责基础维护, 且与它共生 -- 就像S.A.I.L一样. ", "/ai/portraits/plasmoidportrait.png:talk.0" ],
+				[ "虽然我的前任船长貌似... 嘛, 反正现在你就是我的新任船长了. 如果你对航行或是别的什么有疑问, 欢迎来询问我. 咱得呆一起好一会了.", "/ai/portraits/plasmoidportrait.png:yell.1" ],
+				[ "你的家? 从没想过星流体也会安家啊...\n啊, 虽然我怀疑是星界精灵搞的鬼, 但也有可能是别的东西... 毁灭了地球. 安息. ", "/ai/portraits/plasmoidportrait.png:unique.7" ],
+				[ "然后, 还有一个很不幸的消息... 这艘船在紧急跃迁的过程中受到了严重的损伤, 我的导航系统坏了. 这意味着... 我们迷航了... 甚至连我们环绕的是什么星球都无从得知. ", "/ai/portraits/plasmoidportrait.png:refuse.4" ]
 			],
 			"wakePlayer" : [
-			  [ "Hah.. What a thrill. And you are...?", "/ai/portraits/plasmoidportrait.png:unique.1"],
-			  [ "Been a while since last risky incident... And you are...?", "/ai/portraits/plasmoidportrait.png:unique.1"],
-			  [ "Wow, what a nasty result this damage has done, need to ask that bald one to fix me again... Anyways, you are...?", "/ai/portraits/plasmoidportrait.png:unique.1"]
+				[ "你好?", "/ai/portraits/plasmoidportrait.png:unique.0"],
+				[ "喂喂?", "/ai/portraits/plasmoidportrait.png:unique.0"],
+				[ "还活着吗?", "/ai/portraits/plasmoidportrait.png:unique.0"]
 			]
 		  }
 	}

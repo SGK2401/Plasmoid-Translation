@@ -2,51 +2,51 @@
 	{
 		"op" : "replace",
 		"path" : "/description",
-		"value" : "Spelljammer Flag. Symbol of Spelljammer is printed onto it. Use ^green;[E]^white; to bookmark a teleportation location."
+		"value" : "魔法船的旗帜。用^green;[E]^white;以标记一个传送地点。"
 	},
 	{
 		"op" : "replace",
 		"path" : "/shortdescription",
-		"value" : "Spelljammer Flag"
+		"value" : "魔法船旗帜"
 	},
 	{
 		"op" : "replace",
 		"path" : "/apexDescription",
-		"value" : "A Spelljammer flag. This can be used as teleport destination."
+		"value" : "旗帜上画的是魔法船，一种在天空翱翔的魔法之船。"
 	},
 	{
 		"op" : "replace",
 		"path" : "/avianDescription",
-		"value" : "This uncommon Spelljammer flag will allow me to bookmark this place for further teleportation."
+		"value" : "少见，一根魔法船的旗帜。"
 	},
 	{
 		"op" : "replace",
 		"path" : "/floranDescription",
-		"value" : "Sss...Spelljammer! A Flag of a non-menchanical space ship."
+		"value" : "一一一... 一根旗帜。魔法船，不是机械。"
 	},
 	{
 		"op" : "replace",
 		"path" : "/glitchDescription",
-		"value" : "Awe. A Spelljammer flag. I only heard it as Sir•Mind•Flayer the legend used to be driving this kind of vessel in space."
+		"value" : "敬畏。一根魔法船旗帜。我只听说过传说中的夺心魔爵士驾驶过这样的载具。"
 	},
 	{
 		"op" : "replace",
 		"path" : "/humanDescription",
-		"value" : "A Spelljammer's Flag! Its crew must have arrived here earlier."
+		"value" : "一根旗帜，上面画着魔法船的标志，这意味着有驾驶魔法船的人曾来过这个地方。"
 	},
 	{
 		"op" : "replace",
 		"path" : "/hylotlDescription",
-		"value" : "An actual boat that sails upon in space. Odd, but this flag made evidence."
+		"value" : "在大海中航行的载具能在宇宙中飞行么？真是奇怪。但这根旗帜就标明了他们的足迹。"
 	},
 	{
 		"op" : "replace",
 		"path" : "/novakidDescription",
-		"value" : "The ship that sails among the sky, the Spelljammer. It ain't common, but I can bookmark it for quick teleportin'."
+		"value" : "翱翔天空的载具，魔法船。这面旗帜说明它的船员来过这里。"
 	},
 	{
 		"op" : "replace",
 		"path" : "/plasmoidDescription",
-		"value" : "The-flag-of-the-magical-ship, Spelljammer. And-I-happen-to-have-one!"
+		"value" : "这-是-魔-法-船-的-旗-子，我-就-有-一-艘-呢。"
 	}
 ]

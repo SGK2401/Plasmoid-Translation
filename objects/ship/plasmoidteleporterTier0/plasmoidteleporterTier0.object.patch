@@ -2,51 +2,51 @@
   {
     "op" : "replace",
     "path" : "/description",
-    "value" : "Trusty teleporter, what would we do without you? Oh you are already gone. Nevermind."
+    "value" : "好用的传送器。没了你我该怎么办？啊已经炸了？那没事了。"
   },
   {
     "op" : "replace",
     "path" : "/shortdescription",
-    "value" : "Broken Plasmoid Teleporter"
+    "value" : "未供能的传送器"
   },
   {
     "op" : "replace",
     "path" : "/apexDescription",
-    "value" : "The ship's teleporter. I need to power it up."
+    "value" : "船舰的传送器。我需要给它供能。"
   },
   {
     "op" : "replace",
     "path" : "/avianDescription",
-    "value" : "The teleporter. If only this one was powered up."
+    "value" : "传送器。要是有能源就好了。"
   },
   {
     "op" : "replace",
     "path" : "/floranDescription",
-    "value" : "Ship teleporter. Thisss one is dead."
+    "value" : "船舰传送器。这死死了。"
   },
   {
     "op" : "replace",
     "path" : "/glitchDescription",
-    "value" : "Disappointed. A teleporter without power. I need to power it up."
+    "value" : "失望。没有能源的传送器。我需要给它供能。"
   },
   {
     "op" : "replace",
     "path" : "/humanDescription",
-    "value" : "The teleporter. Too bad it isn't powered up."
+    "value" : "传送器。没被供能真是太可惜了。"
   },
   {
     "op" : "replace",
     "path" : "/hylotlDescription",
-    "value" : "This teleporter is currently off."
+    "value" : "这个传送器关了。"
   },
   {
     "op" : "replace",
     "path" : "/novakidDescription",
-    "value" : "Ship's teleporter. I need to power her up."
+    "value" : "船舰的传送器。我得给她冲个能。"
   },
   {
     "op": "replace",
     "path": "plasmoidDescription",
-    "value": "Magic-teleporter. It's-just-unpowered..."
+    "value": "魔-法-船-传-送-器。就-是-现-在-没-能-源..."
   }
 ]

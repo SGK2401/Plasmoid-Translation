@@ -2,51 +2,51 @@
   {
     "op" : "replace",
     "path" : "/description",
-    "value" : "A locker. Store some stuff, why don't you?"
+    "value" : "一个储物柜。存点东西, 为什么不呢? 因为坏了."
   },
   {
     "op" : "replace",
     "path" : "/shortdescription",
-    "value" : "Plasmoid Ship Locker"
+    "value" : "损坏的船舰储物柜"
   },
   {
     "op" : "replace",
     "path" : "/apexDescription",
-    "value" : "The ship's storage system. It's not currently functional."
+    "value" : "船舰的存储系统。现在不工作。"
   },
   {
     "op" : "replace",
     "path" : "/avianDescription",
-    "value" : "A device that holds many items for safe keeping. It's broken at the moment."
+    "value" : "安全地存储许多物品的装置。它现在损坏了。"
   },
   {
     "op" : "replace",
     "path" : "/floranDescription",
-    "value" : "Sssstorage. It'sss not working."
+    "value" : "存储储。它用不了。"
   },
   {
     "op" : "replace",
     "path" : "/glitchDescription",
-    "value" : "Distressed. This ship's storage system is malfunctioning."
+    "value" : "苦恼。这个船舰存储系统出错了。"
   },
   {
     "op" : "replace",
     "path" : "/humanDescription",
-    "value" : "A storage locker. It doesn't seem to be working."
+    "value" : "一个储物柜。看起来用不了。"
   },
   {
     "op" : "replace",
     "path" : "/hylotlDescription",
-    "value" : "An elegant storage solution that isn't so elegant at the moment."
+    "value" : "一个优雅的存储方式。就是现在没那么优雅。"
   },
   {
     "op" : "replace",
     "path" : "/novakidDescription",
-    "value" : "A busted locker. Ain't much use 'til it's fixed."
+    "value" : "一个储物柜。修前没法儿用。"
   },
   {
     "op": "replace",
     "path": "plasmoidDescription",
-    "value": "A-locker-to-put-things-into, it's-just-broken."
+    "value": "可-以-放-东-西-的-柜-子，就-是-坏-掉-了。"
   }
 ]

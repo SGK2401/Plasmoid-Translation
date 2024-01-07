@@ -2,16 +2,16 @@
 	{
 		"op" : "replace",
 		"path" : "/description",
-		"value" : "An ornate lantern lit by magics and spells! Comparing to the ordinary ones, they are so much brighter and won't flicker... But those ain't so ornate any more!"
+		"value" : "一种由魔法与法术驱动的华丽灯笼！相比普通版它们既不会晃也更亮 —— 缺点是它们也不够华丽了！"
 	},
 	{
 		"op" : "replace",
 		"path" : "/shortdescription",
-		"value" : "Ornate Lantern (Continual Flame Ver.)"
+		"value" : "华丽灯笼（永燃明焰版）"
 	},
 	{
 		"op": "replace",
 		"path": "/plasmoidDescription",
-		"value": "It's-a-Continual-Lantern. It's-not-going-to-flicker-since-it-is-lit-by-magic-and-spells, but-it's-also-not-as-ornate-as-the-ordinary-ones..."
+		"value": "一-个永-燃-灯-笼。因-为-是-魔-法-和-法-术-驱-动-的，所-以-这-个-不-会-闪-烁。但-它-也-没-那-么-华-丽-了..."
 	}
 ]

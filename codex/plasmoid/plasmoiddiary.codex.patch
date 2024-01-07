@@ -1,0 +1,22 @@
+[
+    {
+        "op": "replace",
+        "path": "/title",
+        "value": "幸存者日记"
+    },
+    {
+        "op": "replace",
+        "path": "/description",
+        "value": "迷失魂灵的日记。"
+    },
+    {
+        "op": "replace",
+        "path": "/contentPages",
+        "value": [
+            "背景故事往这里丢~",
+            "这是第二部分~",
+            "这是第三部分~"
+        ]
+    }
+
+]

@@ -2,11 +2,11 @@
 	{
 		"op" : "replace",
 		"path" : "/description",
-		"value" : "Amorphous with ^green;[F]^reset;! Allows passing througth 1 block height gaps!"
+		"value" : "使用^green;[F]^reset;无定型! 令你穿过1格高的空间!"
 	},
 	{
 		"op" : "replace",
 		"path" : "/shortDescription",
-		"value" : "Amorphous"
+		"value" : "无定型"
 	}
 ]

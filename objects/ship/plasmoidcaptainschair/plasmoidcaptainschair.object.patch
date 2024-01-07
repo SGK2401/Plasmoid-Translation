@@ -2,51 +2,51 @@
 	{
 		"op" : "replace",
 		"path" : "/description",
-		"value" : "Helm of the Spelljammer. Sit on it, and drive your jammer."
+		"value" : "可以驾驶魔法船的神奇魔法物品 —— 法驱魔舵。"
 	},
 	{
 		"op" : "replace",
 		"path" : "/shortdescription",
-		"value" : "Spelljammer Helm"
+		"value" : "法驱魔舵"
 	},
 	{
 		"op" : "replace",
 		"path" : "/apexDescription",
-		"value" : "Strange chair, looks somewhat magical. Sit on it, and drive the jammer... Right?"
+		"value" : "魔法椅子? 用这东西开船?"
 	},
 	{
 		"op" : "replace",
 		"path" : "/avianDescription",
-		"value" : "Strange chair, looks somewhat magical. Sit on it, and drive the jammer... Right?"
+		"value" : "如果用它能飞... 它能?"
 	},
 	{
 		"op" : "replace",
 		"path" : "/floranDescription",
-		"value" : "Strange chair, looks somewhat magical. Sit on it, and drive the jammer... Right?"
+		"value" : "奇怪的椅椅子. 叶族不懂魔法."
 	},
 	{
 		"op" : "replace",
 		"path" : "/glitchDescription",
-		"value" : "Strange chair, looks somewhat magical. Sit on it, and drive the jammer... Right?"
+		"value" : "震惊. 你可以用这种物品驾驶船?"
 	},
 	{
 		"op" : "replace",
 		"path" : "/humanDescription",
-		"value" : "Strange chair, looks somewhat magical. Sit on it, and drive the jammer... Right?"
+		"value" : "奇怪的椅子，看上去有点魔法的痕迹。坐上去难道就可以开动船了么？"
 	},
 	{
 		"op" : "replace",
 		"path" : "/hylotlDescription",
-		"value" : "Strange chair, looks somewhat magical. Sit on it, and drive the jammer... Right?"
+		"value" : "魔法, 和我们的科技如此不同... 值得研究."
 	},
 	{
 		"op" : "replace",
 		"path" : "/novakidDescription",
-		"value" : "Strange chair, looks somewhat magical. Sit on it, and drive the jammer... Right?"
+		"value" : "嘿~~~哈~~ 不了."
 	},
 	{
 		"op": "replace",
 		"path": "plasmoidDescription",
-		"value": "Driver-seat-of-the-Spelljammer. Fly-anywhere-with-it!"
+		"value": "魔-法-飞-船-的-驾-驶-座-位。坐-上-它-到-处-飞！"
 	}
 ]

@@ -3,16 +3,16 @@
 		"op": "replace",
 		"path": "scriptConfig/converse/default/default",
 		"value": [
-			"Hi-there~",
-			"What's-wrong?",
-			"Just-hanging-around~"
+			"你-好-呀。",
+			"怎-么-了？",
+			"只-是-在-逛-逛。"
 		]
 	},
 	{
 		"op": "replace",
 		"path": "scriptConfig/converse/default/plasmoid",
 		"value": [
-			"Another-Plasmoid? Hi-there~"
+			"是-同-族？你-好-呀。"
 		]
 	}
 ]
