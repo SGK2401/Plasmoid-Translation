@@ -1,0 +1,52 @@
+[
+	{
+		"op" : "replace",
+		"path" : "/description",
+		"value" : "Helm of the Spelljammer. Sit on it, and drive your jammer."
+	},
+	{
+		"op" : "replace",
+		"path" : "/shortdescription",
+		"value" : "Spelljammer Helm"
+	},
+	{
+		"op" : "replace",
+		"path" : "/apexDescription",
+		"value" : "Strange chair, looks somewhat magical. Sit on it, and drive the jammer... Right?"
+	},
+	{
+		"op" : "replace",
+		"path" : "/avianDescription",
+		"value" : "Strange chair, looks somewhat magical. Sit on it, and drive the jammer... Right?"
+	},
+	{
+		"op" : "replace",
+		"path" : "/floranDescription",
+		"value" : "Strange chair, looks somewhat magical. Sit on it, and drive the jammer... Right?"
+	},
+	{
+		"op" : "replace",
+		"path" : "/glitchDescription",
+		"value" : "Strange chair, looks somewhat magical. Sit on it, and drive the jammer... Right?"
+	},
+	{
+		"op" : "replace",
+		"path" : "/humanDescription",
+		"value" : "Strange chair, looks somewhat magical. Sit on it, and drive the jammer... Right?"
+	},
+	{
+		"op" : "replace",
+		"path" : "/hylotlDescription",
+		"value" : "Strange chair, looks somewhat magical. Sit on it, and drive the jammer... Right?"
+	},
+	{
+		"op" : "replace",
+		"path" : "/novakidDescription",
+		"value" : "Strange chair, looks somewhat magical. Sit on it, and drive the jammer... Right?"
+	},
+	{
+		"op": "replace",
+		"path": "plasmoidDescription",
+		"value": "Driver-seat-of-the-Spelljammer. Fly-anywhere-with-it!"
+	}
+]

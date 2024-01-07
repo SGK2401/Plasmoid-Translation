@@ -1,0 +1,52 @@
+[
+	{
+		"op" : "replace",
+		"path" : "/description",
+		"value" : "Spelljammer Flag. Symbol of Spelljammer is printed onto it. Use ^green;[E]^white; to bookmark a teleportation location."
+	},
+	{
+		"op" : "replace",
+		"path" : "/shortdescription",
+		"value" : "Spelljammer Flag"
+	},
+	{
+		"op" : "replace",
+		"path" : "/apexDescription",
+		"value" : "A Spelljammer flag. This can be used as teleport destination."
+	},
+	{
+		"op" : "replace",
+		"path" : "/avianDescription",
+		"value" : "This uncommon Spelljammer flag will allow me to bookmark this place for further teleportation."
+	},
+	{
+		"op" : "replace",
+		"path" : "/floranDescription",
+		"value" : "Sss...Spelljammer! A Flag of a non-menchanical space ship."
+	},
+	{
+		"op" : "replace",
+		"path" : "/glitchDescription",
+		"value" : "Awe. A Spelljammer flag. I only heard it as Sir•Mind•Flayer the legend used to be driving this kind of vessel in space."
+	},
+	{
+		"op" : "replace",
+		"path" : "/humanDescription",
+		"value" : "A Spelljammer's Flag! Its crew must have arrived here earlier."
+	},
+	{
+		"op" : "replace",
+		"path" : "/hylotlDescription",
+		"value" : "An actual boat that sails upon in space. Odd, but this flag made evidence."
+	},
+	{
+		"op" : "replace",
+		"path" : "/novakidDescription",
+		"value" : "The ship that sails among the sky, the Spelljammer. It ain't common, but I can bookmark it for quick teleportin'."
+	},
+	{
+		"op" : "replace",
+		"path" : "/plasmoidDescription",
+		"value" : "The-flag-of-the-magical-ship, Spelljammer. And-I-happen-to-have-one!"
+	}
+]

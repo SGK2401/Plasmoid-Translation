@@ -1,0 +1,12 @@
+[
+	{
+		"op" : "replace",
+		"path" : "/description",
+		"value" : "Amorphous with ^green;[F]^reset;! Allows passing througth 1 block height gaps!"
+	},
+	{
+		"op" : "replace",
+		"path" : "/shortDescription",
+		"value" : "Amorphous"
+	}
+]
